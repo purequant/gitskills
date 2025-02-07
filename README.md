@@ -1,3 +1,2 @@
 # gitskills
-Creating a new branch is quick.
-fuck you
+Creating a new branch is quick & simple.
